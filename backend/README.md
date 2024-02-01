@@ -1,0 +1,1 @@
+Backend source code for the CheckInSync App, a digital attendance register.
